@@ -7,4 +7,4 @@ Teleram : [https://t.me/STARKMIND_OP]
 
 Github Profile : [https://github.com/anujcooks]
 
-Live Link : [/]
+Live Link : [https://anujcooks.github.io/Happy-Birthday-Dev/]
